@@ -1,0 +1,5 @@
+
+{
+  "name": "ML Lab",
+  "postCreateCommand": "python -m pip install -r requirements.txt"
+}
